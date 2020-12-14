@@ -6,7 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-01      Clone
+01      Clone                           Se va a realizar todo desde gitkraken
 02      Crear rama DatosPersonales
 03      Modificación documento
 04      Modificación bitácora
@@ -23,3 +23,6 @@
 14      merge Antecedentes into master          Se me había olvidado recuperar del stash los datos de la rama. Estos se recuperan en el commit "Paso 13 (corrección" y se repite este paso.
 15      merge DatosPersonales into master       Aparecen conflictos en la bitácora, pero estos se resuelven automáticamente por la herramienta gitKraken
 16      ---                                     Nos damos cuenta de que la rama Antecedentes se creó desde DatosPersonales en vez de desde master (se creó en el commit posterior al que debía ser creada)
+17      create tag FusionTerminada
+18      push
+19      edición bitácora + commit + puss
