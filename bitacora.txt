@@ -10,3 +10,8 @@
 02      Crear rama DatosPersonales
 03      Modificación documento
 04      Modificación bitácora
+05      Commit Paso 05
+06      ---
+07      Desde el commit de creación de la rama, crear rama DatosPersonales
+08      ---
+09      ---
