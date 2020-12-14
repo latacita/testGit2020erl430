@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Romón López, Elena                   %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01      Clone
+02      Crear rama DatosPersonales
+03      Modificación documento
+04      Modificación bitácora
