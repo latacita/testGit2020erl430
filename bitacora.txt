@@ -20,3 +20,6 @@
 11      push
 12                                   El único docuemento con cambios comunes es este, y como previsiblemente se va a seguir modificando tras la fusión, debe usarse fusión recursiva.
 13      commit
+14      merge Antecedentes into master          Se me había olvidado recuperar del stash los datos de la rama. Estos se recuperan en el commit "Paso 13 (corrección" y se repite este paso.
+15      merge DatosPersonales into master       Aparecen conflictos en la bitácora, pero estos se resuelven automáticamente por la herramienta gitKraken
+16      ---                                     Nos damos cuenta de que la rama Antecedentes se creó desde DatosPersonales en vez de desde master (se creó en el commit posterior al que debía ser creada)
