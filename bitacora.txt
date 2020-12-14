@@ -15,3 +15,8 @@
 07      Desde el commit de creación de la rama, crear rama DatosPersonales
 08      ---
 09      ---
+
+10      stash
+11      push
+12                                   El único docuemento con cambios comunes es este, y como previsiblemente se va a seguir modificando tras la fusión, debe usarse fusión recursiva.
+13      commit
